@@ -1,5 +1,5 @@
 {
-  "name": "full-stack-avoin",
+  "name": "full-stack-open",
   "version": "1.0.0",
   "description": "## Syväsukellus moderniin websovelluskehitykseen — ota haltuusi React, Redux, Node.js ja MongoDB",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yekku/Full-stack.git"
+    "url": "git+https://github.com/Yekku/full-stack-open.git"
   },
   "author": "Yekku",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yekku/Full-stack/issues"
+    "url": "https://github.com/Yekku/full-stack-open/issues"
   },
-  "homepage": "https://github.com/Yekku/Full-stack#readme"
+  "homepage": "https://github.com/Yekku/full-stack-open#readme"
 }
