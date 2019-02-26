@@ -1,0 +1,25 @@
+.App {
+  text-align: left;
+}
+
+.success {
+  color: black;
+  background: rgb(15, 133, 15);
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 30%;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}

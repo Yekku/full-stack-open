@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Lea Kutvonen",
+      "number": "040-123456",
+      "id": 4
+    },
+    {
+      "name": "Arto Hellas",
+      "number": "040-987654",
+      "id": 5
+    },
+    {
+      "name": "Jussi Niemi",
+      "number": "040-567890",
+      "id": 9
+    },
+    {
+      "name": "Liisa Hakala",
+      "number": "044-456789",
+      "id": 10
+    }
+  ]
+}

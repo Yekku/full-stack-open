@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "content": "reduxin storen toiminnan määrittelee reduceri",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "storen tilassa voi olla mielivaltaista dataa",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "single page app ei tee turhia sivun latauksia",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "single page app ei tee turhia sivun latauksia",
+      "important": false,
+      "id": 4
+    }
+  ]
+}
